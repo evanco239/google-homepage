@@ -1,0 +1,96 @@
+.googleText{
+    display: inline-block;
+    color: black;
+    
+}
+
+.googleText:hover{
+  color: black;
+  text-decoration: underline;
+  opacity:.75;
+}
+
+.googleFormatting{
+  margin:89px; 
+}
+
+.shadows{
+  box-shadow: 2px 2px 2px lightgrey;
+  width:560px;
+  height:34px;
+}
+
+.shadows:hover{
+  box-shadow: 2px 2px 2px 2px lightgrey;
+}
+
+.googleButtons{
+    
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 2px;
+    color: grey;
+    cursor: pointer;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 11px 4px;
+    min-width: 54px;
+    padding: 0 16px;
+    text-align: center;
+    height:36px;
+}
+
+.googleButtons:hover{
+  color: #606060;
+  border:1px solid #606060;
+}
+.gridImage{
+  width:25px;
+  margin:7px;
+  opacity:.55;
+}
+.gridImage:hover{
+  opacity:1;
+}
+
+.signInButton{
+  background:#4285f4;
+  color: #fff !important;
+  font-weight:bold;
+  border-radius:4px;
+}
+
+.footerClass{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #f5f5f5;
+}
+
+.googleFooterText{
+  color:black;
+  opacity:.6;
+  padding:15px;
+}
+
+.googleFooterText:hover{
+  color: black;
+  text-decoration: underline;
+  opacity:.6;
+}
+
+.googleRight{
+  padding-right: 20px;
+  list-style: none;
+  float:right;
+  display:flex;
+}
+.googleLeft{
+  padding-left: 20px;
+  list-style:none;
+  float:left;
+  display:flex;
+}
